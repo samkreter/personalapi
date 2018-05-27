@@ -42,8 +42,7 @@ class Dashboard extends React.Component {
   };
 
   componentDidMount() {
-    console.log("TEST")
-    fetch("/apiinternal/hello")
+    fetch("http://samkreter.com/api/get")
       .then(res => res.json())
       .then(result => {
           console.log(result);
