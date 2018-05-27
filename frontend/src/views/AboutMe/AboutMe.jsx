@@ -26,7 +26,7 @@ function AboutMe({ ...props }) {
             avatar={avatar}
             subtitle="Software Engineer"
             title="Sam Kreter"
-            description="Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens’ bed design but the back is..."
+            description="I am passionate person who loves learning. I am currently working for Microsoft working on Azure Container Instances and Azure CloudShell."
           />
         </ItemGrid>
       </Grid>
